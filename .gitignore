@@ -1,0 +1,6 @@
+# Go executables
+*.exe
+
+# Idea files
+**/.idea/
+**/*.iml
